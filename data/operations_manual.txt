@@ -1,0 +1,17 @@
+Server Overheating Procedure
+
+If a server temperature exceeds the approved threshold, verify the temperature through the monitoring dashboard. Notify the operations lead and inspect airflow around the affected rack.
+
+Do not immediately power down production equipment unless instructed by the incident-response lead.
+
+All incidents must also be documented in the operations log.
+
+
+Power Outage Procedure
+
+During a power interruption, confirm whether backup generators and UPS systems activated successfully. Report any failed systems through the incident-management platform.
+
+
+Visitor Access Procedure
+
+All visitors must present identification and remain accompanied by an authorized employee while inside secure areas.
