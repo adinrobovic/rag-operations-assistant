@@ -2,6 +2,9 @@
 
 A Python-based Retrieval-Augmented Generation (RAG) application that answers questions from an operations manual using OpenAI and ChromaDB.
 
+## Demo
+![RAG Operations Assistant Demo](assets/rag-demo.PNG)
+
 ## What It Does
 
 - Loads operational documentation
