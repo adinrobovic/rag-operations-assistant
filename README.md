@@ -1,4 +1,4 @@
-# QTS AI Operations Assistant
+# RAG Operations Assistant
 
 A Python-based Retrieval-Augmented Generation (RAG) application that answers questions from an operations manual using OpenAI and ChromaDB.
 
